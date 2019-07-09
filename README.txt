@@ -18,4 +18,14 @@ Su arquitectura fue creada para cierto fin que luego fue escalando y se tuvo que
 
 Todavia años despues de realizado, se que tiene muchas cosas para corregir pero siempre será el mi primer sistema grande para una empresa.
 
+Este sistema cuenta con: 
+* AMB de clientes, proveedores, usuarios, y personal de la empresa
+* Ingresos por usuarios con niveles
+* Control de cheques propios y de terceros
+* Visualizacion de cheques en cartera e ingresados al banco
+* Control de flujo de caja
+* Seguimiento de cuentas corrientes
+* Impresiones de remitos para control interno
+
+
 
