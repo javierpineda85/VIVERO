@@ -1,0 +1,29 @@
+Habran 10 niveles de usuario. Armo muchos pensado a futuro 
+	NIVELES DE USUARIOS
+
+NIVEL 1: NIVEL PROGRAMADOR:
+	Privilegio:accede a todos los modulos incluso info del sistema que hace a la programcion
+
+NIVEL 2: NIVEL ADMINISTRADOR
+	 Privilegio: accede a todo el sistema sin restricción alguna.
+
+NIVEL 3: USUARIO AVANZADO
+	Privilegio: Accede a todo el sistema exceptuando el  módulo de cheques.
+
+NIVEL 4: USUARIO OPERARIO
+ 	Privilegio: Puede acceder al módulo de listados pero no al módulo de cheques.
+
+NIVEL 5: USUARIO OPERARIO 2. 
+	Privilegio: Puede acceder a los módulos de  banco, listados y cheques
+
+NIVEL 6: USUARIO INVITADO
+ 	Privilegio: Solo accede al módulo de Listados.
+
+
+7º nivel=
+
+8º nivel=
+
+9º nivel=
+
+NOTA: Hasta la fecha 4/09/12 solo hay 6 niveles... luego al ir agrandando el programa hay que modificar los niveles de usuarios
